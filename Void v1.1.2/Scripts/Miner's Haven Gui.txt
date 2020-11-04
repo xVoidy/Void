@@ -1,0 +1,1 @@
+loadstring(game:HttpGet(("https://raw.githubusercontent.com/adrician/Miner-s-Haven-GUI-Made-by-Adrician-Thex/main/Miner's%20Haven%20GUI.lua"),true))()
